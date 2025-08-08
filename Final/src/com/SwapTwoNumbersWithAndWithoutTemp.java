@@ -4,7 +4,7 @@ public class SwapTwoNumbersWithAndWithoutTemp {
 
 	static void swapWithTemp() {
 		int a = 5, b = 6;
-		System.out.println("Before swap: " + a + " & " + b);				
+		System.out.println("Before swap: " + a + " & " + b);			
 		int temp =a;
 		a = b;
 		b = temp;
