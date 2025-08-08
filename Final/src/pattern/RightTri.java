@@ -1,6 +1,6 @@
 package pattern;
 
-public class LeftTriangle {
+public class RightTri {
 
 	static void leftT() {
 		int n = 5;
